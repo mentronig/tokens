@@ -1,0 +1,27 @@
+{
+  "name": "@mentronig/tokens",
+  "version": "0.1.0",
+  "description": "Mentronig Design System tokens -- single source of truth for portfolio-wide colors, typography and design tokens (Web, Print, Mermaid, AI-UI)",
+  "main": "src/index.ts",
+  "private": false,
+  "license": "MIT",
+  "author": "Roland Glienke <glienker@googlemail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentronig/tokens.git"
+  },
+  "keywords": [
+    "mentronig",
+    "design-tokens",
+    "tailwind",
+    "branding",
+    "css-variables"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ]
+}
