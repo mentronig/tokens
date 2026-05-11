@@ -6,6 +6,15 @@
   --color-text-primary: #e6e6e6;
   --color-text-muted: #64748b;
   --color-table-divider: #1e293b;
+
+  /* Tertiary accent + chapter palette (Onboarding-Doku-Pattern, since 0.2.0) */
+  --color-accent-purple: #c084fc;
+  --color-chapter-01: #c084fc;
+  --color-chapter-02: #fbbf24;
+  --color-chapter-03: #60a5fa;
+  --color-chapter-04: #ef4444;
+  --color-chapter-05: #22c55e;
+
   --font-urbanist: var(--font-urbanist);
   --font-inter: var(--font-inter);
   --font-mono: var(--font-mono);

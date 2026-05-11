@@ -1,4 +1,5 @@
 :root {
+  /* Core palette */
   --color-deep-base: #141928;
   --color-lead-cyan: #00ffff;
   --color-phase-orange: #ffa032;
@@ -6,4 +7,16 @@
   --color-text-primary: #e6e6e6;
   --color-text-muted: #64748b;
   --color-table-divider: #1e293b;
+
+  /* Tertiary accent (Onboarding-Doku-Pattern, since 0.2.0) */
+  --color-accent-purple: #c084fc;
+
+  /* Chapter palette (Onboarding-Doku-Pattern, since 0.2.0).
+     Strukturell, nicht interaktiv. Nur fuer Kapitel-Header und Subkapitel-Badges
+     in Onboarding-/Schulungs-Doku. Lead Cyan bleibt Primaer-Akzent fuer Interaktion. */
+  --color-chapter-01: #c084fc; /* purple-400 */
+  --color-chapter-02: #fbbf24; /* amber-400 */
+  --color-chapter-03: #60a5fa; /* blue-400 */
+  --color-chapter-04: #ef4444; /* red-500 */
+  --color-chapter-05: #22c55e; /* green-500 */
 }

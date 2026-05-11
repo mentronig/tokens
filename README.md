@@ -22,6 +22,14 @@ Single source of truth for the Mentronig brand tokens. Used portfolio-wide by We
 | Text Primary | `#E6E6E6` | Body copy. Never use pure white. |
 | Text Muted | `#64748B` | Metadata, captions, secondary labels |
 | Table Divider | `#1E293B` | Borders and dividers in dark surfaces |
+| Accent Purple | `#C084FC` | Tertiary accent for Onboarding-Doku-Pattern. **Never interactive** -- Lead Cyan stays primary. Since 0.2.0. |
+| Chapter 01 | `#C084FC` | Chapter colour 01 in Onboarding-Doku multi-color palette. Since 0.2.0. |
+| Chapter 02 | `#FBBF24` | Chapter colour 02. Since 0.2.0. |
+| Chapter 03 | `#60A5FA` | Chapter colour 03. Since 0.2.0. |
+| Chapter 04 | `#EF4444` | Chapter colour 04. Since 0.2.0. |
+| Chapter 05 | `#22C55E` | Chapter colour 05. Since 0.2.0. |
+
+> **Pattern scope:** The chapter palette is structural, not interactive. Use only for chapter headers, sub-chapter badges and bullets in onboarding and training documentation. Do not use as a general interaction accent — that role stays with Lead Cyan. See vault `00 Kontext/Branding-Guide.md` section "Onboarding-Doku-Pattern" and reference mockup `sandbox/webDesignProject/mockups/aria-curriculum-style/` for the full pattern definition.
 
 ## Install
 
